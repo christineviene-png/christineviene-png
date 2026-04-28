@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=christineviene-png)
+
 # Hi, I'm Christine Viene
 
 Executive operations professional building practical systems at the intersection of operations, AI, and execution.
@@ -37,3 +39,5 @@ Focused on:
 
 ## Connect
 LinkedIn → www.linkedin.com/in/christine-viene-440a14b3
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=christineviene-png&show_icons=true)
