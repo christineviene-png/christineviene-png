@@ -27,3 +27,12 @@ Focused on:
 - Execution
 - Systems thinking
 - AI-enabled operations
+
+  ## Stack
+- ChatGPT
+- Google Workspace
+- Slack
+- Microsoft Office
+
+## Connect
+LinkedIn → www.linkedin.com/in/christine-viene-440a14b3
