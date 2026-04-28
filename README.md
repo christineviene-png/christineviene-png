@@ -1,11 +1,12 @@
-# Christine Viene
-Building practical systems at the intersection of operations, AI, and execution.
-
-Interested in how strong workflows create leverage.
-
 # Hi, I'm Christine Viene
 
 Executive operations professional building practical systems at the intersection of operations, AI, and execution.
+
+Interested in how strong workflows create leverage.
+
+![AI Enabled](https://img.shields.io/badge/AI-Enabled-blue)
+![Systems Thinking](https://img.shields.io/badge/Systems-Thinking-green)
+![Builder Mindset](https://img.shields.io/badge/Builder-Mindset-orange)
 
 ## Now
 Currently focused on:
