@@ -20,6 +20,7 @@ Currently focused on:
 - executive-ai-workflows
 - remote-ops-playbooks
 - process-improvement-case-studies
+- executive-copilot-ai
   
 Currently sharing:
 - AI workflows for executive support
